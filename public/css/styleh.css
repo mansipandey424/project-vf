@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f97d18;
+    color: rgb(4, 0, 1);
+   
+}
+
+.logo{
+   position: relative;
+   margin-left: 15px;
+   margin-top: 20px;
+   
+}
+
+h1{
+
+    font-size: 50px;
+    text-align: center;
+    padding: 40px ;
+    margin-left:200px;
+
+}
+
+.down{
+    color: #ef622f;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+nav{
+    background-color: #f97d18;
+    color: #150a0a;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+}
